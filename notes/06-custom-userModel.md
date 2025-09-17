@@ -13,7 +13,7 @@ Creating one requires four steps:
 ### Step 1: Update `settings.py`
 
 You must explicitly tell Django to use your new `CustomUser` model instead of its default `User` model. Add the following line to your `settings.py` file.
-
+- remember that you also need to put in the `INSTALLED_APPS` you `accounts`
 ```python
 # your_project_name/settings.py
 
