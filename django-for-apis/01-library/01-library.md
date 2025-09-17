@@ -1,6 +1,6 @@
 # Creating an Endpoint for Library
-The goal of this chapter are:
-- Create the first ever view that will expose and API endpoint
+The goals of this chapter are:
+- Create the first ever view that will expose an API endpoint
 - List the books in JSON
 ---
 After installing djangorestframework with pip:

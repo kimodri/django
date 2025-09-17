@@ -1,5 +1,5 @@
 1. Create an endpoint for all todos and specific
-2. Cross-origin Resource Sharing (CORS) a security feature whena a deployed back-end needs to communicated with a front-end
+2. Cross-origin Resource Sharing (CORS) a security feature whena a deployed back-end needs to communicate with a front-end
 
 Assume that you already have a project called `django_project` and an app called `todos` and that the database has been migrated and that you also have a model:
 ```python
