@@ -1,6 +1,6 @@
 # 🐍 Study Django with Me 
 
-This repository contains the notes and the projects from my studies about Django. The reference I use and will use to study are the following:
+This repository contains the notes and the projects from my studies about Django. The references I use and will use to study are the following:
 - [Django for Beginners](https://learndjango.com/courses/django-for-beginners/)
 - [Django for APIs](https://learndjango.com/courses/django-for-apis/)
 - [Django for Professionals](https://learndjango.com/courses/django-for-professionals/)
